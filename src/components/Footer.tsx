@@ -44,8 +44,8 @@ const Footer: React.FC = () => {
           <div className="space-y-4">
             <h4 className="text-lg font-semibold text-white">Get In Touch</h4>
             <div className="space-y-2 text-sm text-gray-400">
-              <p>prince.kumar@example.com</p>
-              <p>+91 98765 43210</p>
+              <p>dipppu65@gmail.com</p>
+              <p>+91 91236 96678</p>
               <p>India</p>
             </div>
           </div>
